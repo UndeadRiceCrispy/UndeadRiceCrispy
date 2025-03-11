@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    Transforming ideas into intelligent solutions, one model at a time 🚀
+    Thoughtful coder and analyst. Inspired by tough problems that twist the mind and find themselves on the canvas for all to see! 🚀
   </em>
 </p>
 
@@ -24,7 +24,7 @@
 <!-- About Me Section -->
 ## 💫 About Me
 
-- **Current Focus:** Building scalable AI and data solutions. Really, I am just a Husband/Dad who enjoys learning and having fun solving problems either through technology or through my writing and stories
+- **Current Focus:** Building scalable AI and data solutions. Really, I am just a Husband/Dad who is Inspired by tough problems that twist the mind and require me to wrangle them in any way I can to get them to the audience so we can solve problems.
 - **Expertise:** AI Engineering|Data Analyst|Machine Learning|DevOps|SQL|Customer Success Engineer|Technical Writing|Enhanced AI (NoCode/LowCode flow Creation) 
   - Visualization Tools: Power BI, Tableau, Alteryx
 - **Interests:** 
