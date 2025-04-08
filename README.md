@@ -93,7 +93,7 @@
 <!-- Education Section -->
 ## 🎓 Education
 
--**B.S/M.S Computer Science** - Western Governors University 
+- **B.S/M.S Computer Science** - Western Governors University 
 - **B.S. Data Analytics** - Western Governors University (Changed to Computer Science B.S/M.S Program w/focus in AI/ML
 - **B.E. Aerospace Engineering** - Embry Riddle Aeronautical University
 - **Machine Learning Specialization** - Stanford/DeepLearning.ai
